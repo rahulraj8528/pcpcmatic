@@ -10,6 +10,8 @@ author = 'Author'
 
 # -- General configuration ---------------------------------------------------
 
+html_extra_path = ['static']
+
 extensions = [
     'myst_parser',  # to support Markdown files
 ]
