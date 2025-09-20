@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'PC Matic'
+project = 'Native Project'
 author = 'Author'
 
 # -- General configuration ---------------------------------------------------
@@ -36,4 +36,5 @@ html_theme = 'alabaster'
 # custom template is the reliable way to inject meta tags.
 
 # If you want to add other meta tags, do so in your _templates/layout.html
+
 
